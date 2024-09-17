@@ -2,7 +2,7 @@
 # Sriram Teja S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sriram-teja-singaraju/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/USER)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/ssriramteja)
 [![Email](https://img.shields.io/badge/Email-ssingar2@charlotte.edu-red)](mailto:ssingar2@charlotte.edu)
 
 ---
